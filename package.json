@@ -31,10 +31,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ssohwi/auction.git"
+    "url": "git+https://github.com/gorgor15/auction1.git"
   },
   "bugs": {
-    "url": "https://github.com/ssohwi/auction/issues"
+    "url": "https://github.com/gorgor15/auction1.git/issues"
   },
-  "homepage": "https://github.com/ssohwi/auction#readme"
+  "homepage": "https://github.com/gorgor15/auction1.git#readme"
 }
